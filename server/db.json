@@ -1,0 +1,619 @@
+{
+  "purchases": [
+    {
+      "id": "JeJGcp1V",
+      "username": "admin",
+      "name": "片倉俊輔",
+      "address": "東京都1-2-4",
+      "age": "44",
+      "cardNumber": "1111111111",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（伊丹）",
+      "departureDate": "2025-03-29",
+      "returnDate": "2025-04-01",
+      "passengerCount": 1
+    },
+    {
+      "id": "V4HTNeWH",
+      "username": "admin",
+      "name": "田中",
+      "address": "大阪府1-2-4",
+      "age": "28",
+      "cardNumber": "2222222222",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "東京（成田）",
+      "departureDate": "2025-03-29",
+      "returnDate": "2025-04-03",
+      "passengerCount": 1
+    },
+    {
+      "id": "f-mmPuSn",
+      "username": "admin",
+      "name": "田中",
+      "address": "神奈川県2-2",
+      "age": "53",
+      "cardNumber": "33333333333",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（伊丹）",
+      "departureDate": "2025-04-02",
+      "returnDate": "2025-04-05",
+      "passengerCount": 1
+    },
+    {
+      "id": "8uz_gWrZ",
+      "username": "admin",
+      "name": "片倉俊輔",
+      "address": "abcded",
+      "age": "44",
+      "email": "s.katakura@aaaa.com",
+      "cardNumber": "111111",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（伊丹）",
+      "departureDate": "2025-04-09",
+      "returnDate": "2025-04-18",
+      "passengerCount": 1
+    },
+    {
+      "id": "9phhLx2T",
+      "username": "T94B9",
+      "name": "片倉",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（関西）",
+      "departureDate": "2025-03-28",
+      "returnDate": "2025-03-31",
+      "passengerCount": 4
+    },
+    {
+      "id": "mU3jXMmM",
+      "username": "T94B9",
+      "name": "片倉",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（関西）",
+      "departureDate": "2025-03-28",
+      "returnDate": "2025-03-31",
+      "passengerCount": 4
+    },
+    {
+      "id": "vGCgvjmv",
+      "username": "T94B9",
+      "name": "片倉",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（関西）",
+      "departureDate": "2025-03-28",
+      "returnDate": "2025-03-31",
+      "passengerCount": 4
+    },
+    {
+      "id": "eJS4iFBp",
+      "username": "T94B9",
+      "name": "片倉",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（関西）",
+      "departureDate": "2025-03-28",
+      "returnDate": "2025-03-31",
+      "passengerCount": 4
+    },
+    {
+      "id": "epzfK6lC",
+      "username": "tanaka2",
+      "name": "Tanaka-san",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com",
+      "cardNumber": "11111111",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（伊丹）",
+      "departureDate": "2025-04-17",
+      "returnDate": "2025-04-30",
+      "passengerCount": 1
+    },
+    {
+      "id": "Ig6lehCG",
+      "username": "tanaka2",
+      "name": "Tanaka-san",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com",
+      "cardNumber": "11111111",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（伊丹）",
+      "departureDate": "2025-04-17",
+      "returnDate": "2025-04-30",
+      "passengerCount": 1
+    },
+    {
+      "id": "tW-vDjBF",
+      "username": "tanaka2",
+      "name": "Tanaka-san",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com",
+      "cardNumber": "1111111",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（伊丹）",
+      "departureDate": "2025-04-17",
+      "returnDate": "2025-04-24",
+      "passengerCount": 1
+    },
+    {
+      "id": "aA4xV1AO",
+      "username": "T94B9",
+      "name": "片倉",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（関西）",
+      "departureDate": "2025-03-28",
+      "returnDate": "2025-03-31",
+      "passengerCount": 4
+    },
+    {
+      "id": "GuvjkANn",
+      "username": "T94B9",
+      "name": "片倉",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（関西）",
+      "departureDate": "2025-03-28",
+      "returnDate": "2025-03-31",
+      "passengerCount": 4
+    },
+    {
+      "id": "LUlybYN0",
+      "username": "T94B9",
+      "name": "片倉",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（関西）",
+      "departureDate": "2025-03-28",
+      "returnDate": "2025-03-31",
+      "passengerCount": 4
+    },
+    {
+      "id": "ooAzF6tD",
+      "username": "T94B9",
+      "name": "片倉",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（関西）",
+      "departureDate": "2025-03-28",
+      "returnDate": "2025-03-31",
+      "passengerCount": 4
+    },
+    {
+      "id": "bH8u2WFD",
+      "username": "T94B9",
+      "name": "片倉",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（関西）",
+      "departureDate": "2025-03-28",
+      "returnDate": "2025-03-31",
+      "passengerCount": 4
+    },
+    {
+      "id": "lq-SqsPc",
+      "username": "T94B9",
+      "name": "片倉",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（関西）",
+      "departureDate": "2025-03-28",
+      "returnDate": "2025-03-31",
+      "passengerCount": 4
+    },
+    {
+      "id": "N_WcQwJD",
+      "username": "tanaka2",
+      "name": "Tanaka-san",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com",
+      "cardNumber": "1111111",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（伊丹）",
+      "departureDate": "2025-04-25",
+      "returnDate": "2025-04-29",
+      "passengerCount": 1
+    },
+    {
+      "id": "gsyOaThF",
+      "username": "T94B9",
+      "name": "片倉",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（関西）",
+      "departureDate": "2025-03-28",
+      "returnDate": "2025-03-31",
+      "passengerCount": 4
+    },
+    {
+      "id": "sBfN7Q38",
+      "username": "testuser",
+      "name": "田中太郎",
+      "address": "東京都千代田区大手町1-1-1",
+      "age": "40",
+      "email": "testuser@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（伊丹）",
+      "departureDate": "2025-05-16",
+      "returnDate": "2025-05-23",
+      "passengerCount": 1
+    },
+    {
+      "id": "J0r9vqop",
+      "username": "testuser",
+      "name": "田中太郎",
+      "address": "東京都千代田区大手町1-1-1",
+      "age": "40",
+      "email": "testuser@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（伊丹）",
+      "departureDate": "2025-05-16",
+      "returnDate": "2025-05-23",
+      "passengerCount": 1
+    },
+    {
+      "id": "RZ-cEuqz",
+      "username": "testuser",
+      "name": "田中太郎",
+      "address": "東京都千代田区大手町1-1-1",
+      "age": "40",
+      "email": "testuser@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（伊丹）",
+      "departureDate": "2025-05-16",
+      "returnDate": "2025-05-22",
+      "passengerCount": 1
+    },
+    {
+      "id": "f5x2ppys",
+      "username": "testuser",
+      "name": "田中太郎",
+      "address": "東京都千代田区大手町1-1-1",
+      "age": "40",
+      "email": "testuser@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（伊丹）",
+      "departureDate": "2025-05-16",
+      "returnDate": "2025-05-22",
+      "passengerCount": 1
+    },
+    {
+      "id": "ylRpCk7x",
+      "username": "testuser",
+      "name": "田中太郎",
+      "address": "東京都千代田区大手町1-1-1",
+      "age": "40",
+      "email": "testuser@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（伊丹）",
+      "departureDate": "2025-05-13",
+      "returnDate": "2025-05-22",
+      "passengerCount": 1
+    },
+    {
+      "id": "eJH8emYO",
+      "username": "testuser",
+      "name": "田中太郎",
+      "address": "東京都千代田区大手町1-1-1",
+      "age": "40",
+      "email": "testuser@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（伊丹）",
+      "departureDate": "2025-05-13",
+      "returnDate": "2025-05-22",
+      "passengerCount": 1
+    },
+    {
+      "id": "ZPs5u88h",
+      "username": "testuser",
+      "name": "田中太郎",
+      "address": "東京都千代田区大手町1-1-1",
+      "age": "40",
+      "email": "testuser@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（伊丹）",
+      "departureDate": "2025-05-15",
+      "returnDate": "2025-05-22",
+      "passengerCount": 1
+    },
+    {
+      "id": "mrjEFqDp",
+      "username": "testuser",
+      "name": "田中太郎",
+      "address": "東京都千代田区大手町1-1-1",
+      "age": "40",
+      "email": "testuser@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "大阪（伊丹）",
+      "departureDate": "2025-05-15",
+      "returnDate": "2025-05-22",
+      "passengerCount": 1
+    },
+    {
+      "id": "Z4jcGRwJ",
+      "username": "testuser",
+      "name": "田中太郎",
+      "address": "東京都千代田区大手町1-1-1",
+      "age": "40",
+      "email": "testuser@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "東京（成田）",
+      "departureDate": "2025-05-15",
+      "returnDate": "2025-05-22",
+      "passengerCount": 1
+    },
+    {
+      "id": "6S9Ntk-o",
+      "username": "testuser",
+      "name": "田中太郎",
+      "address": "東京都千代田区大手町1-1-1",
+      "age": "40",
+      "email": "testuser@gmail.com",
+      "cardNumber": "123456789",
+      "departureAirport": "東京（羽田）",
+      "arrivalAirport": "東京（成田）",
+      "departureDate": "2025-05-15",
+      "returnDate": "2025-05-22",
+      "passengerCount": 1
+    }
+  ],
+  "pricingTable": {
+    "東京（羽田）": {
+      "東京（成田）": 5000,
+      "大阪（伊丹）": 25000,
+      "大阪（関西）": 26000,
+      "名古屋（中部）": 22000,
+      "福岡": 30000,
+      "札幌（新千歳）": 28000,
+      "沖縄（那覇）": 35000,
+      "ソウル（仁川）": 50000,
+      "シンガポール（チャンギ）": 70000
+    },
+    "大阪（伊丹）": {
+      "東京（羽田）": 25000,
+      "名古屋（中部）": 18000,
+      "福岡": 27000,
+      "札幌（新千歳）": 29000,
+      "沖縄（那覇）": 34000
+    },
+    "福岡": {
+      "東京（羽田）": 30000,
+      "大阪（伊丹）": 27000,
+      "札幌（新千歳）": 32000,
+      "沖縄（那覇）": 20000
+    },
+    "札幌（新千歳）": {
+      "東京（羽田）": 28000,
+      "大阪（伊丹）": 29000,
+      "福岡": 32000
+    },
+    "沖縄（那覇）": {
+      "東京（羽田）": 35000,
+      "大阪（伊丹）": 34000,
+      "福岡": 20000
+    },
+    "東京（成田）": {
+      "東京（羽田）": 5000,
+      "大阪（関西）": 25000
+    },
+    "大阪（関西）": {
+      "東京（成田）": 25000,
+      "名古屋（中部）": 18000
+    },
+    "名古屋（中部）": {
+      "東京（羽田）": 22000,
+      "大阪（伊丹）": 18000
+    },
+    "ソウル（仁川）": {
+      "東京（羽田）": 50000,
+      "大阪（伊丹）": 48000
+    },
+    "シンガポール（チャンギ）": {
+      "東京（羽田）": 70000,
+      "大阪（伊丹）": 68000
+    }
+  },
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "username": "shunsuke",
+      "password": "Nandemo11"
+    },
+    {
+      "username": "tanaka",
+      "password": "tanaka",
+      "name": "22",
+      "address": "福岡県2000",
+      "age": "28",
+      "email": "tanaka@gmail.com"
+    },
+    {
+      "username": "nakamura",
+      "password": "Nandemo11",
+      "name": "中村",
+      "address": "京都府１１１１",
+      "age": "22",
+      "email": "nakamura@gmail.com"
+    },
+    {
+      "username": "tanaka2",
+      "password": "Nandemo11",
+      "name": "Tanaka-san",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com"
+    },
+    {
+      "username": "H4n21",
+      "password": "Nandemo11",
+      "name": "片倉",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com"
+    },
+    {
+      "username": "8m16T",
+      "password": "Nandemo11",
+      "name": "片倉",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com"
+    },
+    {
+      "username": "T94B9",
+      "password": "Nandemo11",
+      "name": "片倉",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "tanaka-san@gmail.com"
+    },
+    {
+      "username": "testuser",
+      "password": "Nandemo11",
+      "name": "田中太郎",
+      "address": "東京都千代田区大手町1-1-1",
+      "age": "40",
+      "email": "testuser@gmail.com"
+    },
+    {
+      "username": "片倉",
+      "password": "Nandemo11",
+      "name": "Katakura",
+      "address": "千代田区１０ー１－１",
+      "age": "44",
+      "email": "test@tricentis.com"
+    },
+    {
+      "username": "eapeap",
+      "password": "Nandemo11",
+      "name": "Katakura",
+      "address": "千代田区１０ー１－１",
+      "age": "44",
+      "email": "test@tricentis.com"
+    },
+    {
+      "username": "gj941l",
+      "password": "Nandemo11",
+      "name": "Katakura",
+      "address": "千代田区１０ー１－１",
+      "age": "44",
+      "email": "test@tricentis.com"
+    },
+    {
+      "username": "katakurashunsuke",
+      "password": "Nandemo11",
+      "name": "片倉俊輔",
+      "address": "千代田区1-1-1",
+      "age": "44",
+      "email": "test@tricentis.com"
+    },
+    {
+      "username": "3ot3ew",
+      "password": "Nandemo11",
+      "name": "片倉俊輔",
+      "address": "千代田区1-1-1",
+      "age": "44",
+      "email": "test@tricentis.com"
+    },
+    {
+      "username": "test123",
+      "password": "Nandemo11",
+      "name": "中村",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "s.katakura@tricentis.com"
+    },
+    {
+      "username": "2i6ehg",
+      "password": "Nandemo11",
+      "name": "中村",
+      "address": "東京都千代田区大手町１－２－３",
+      "age": "44",
+      "email": "s.katakura@tricentis.com"
+    }
+  ],
+  "verificationCodes": [
+    {
+      "username": "suzuki",
+      "code": "743470"
+    },
+    {
+      "username": "tanaka5",
+      "code": "877613"
+    },
+    {
+      "username": "shuka",
+      "code": "313650"
+    },
+    {
+      "username": "aaaaa",
+      "code": "288166"
+    },
+    {
+      "username": "3O4LF",
+      "code": "873155"
+    },
+    {
+      "username": "5Djhv",
+      "code": "657515"
+    },
+    {
+      "username": "abcdefg",
+      "code": "540877"
+    },
+    {
+      "username": "s.katakura@tricentis.com",
+      "code": "288158"
+    }
+  ]
+}
